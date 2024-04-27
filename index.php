@@ -6,6 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>hehafbamns</h1>
+<?php
+echo "Hello World!";
+?>
 </body>
 </html>
